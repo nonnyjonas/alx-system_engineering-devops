@@ -1,0 +1,16 @@
+total 48
+drwxr-xr-x 2 root root 283 Jun 15 04:39 .
+drwxr-xr-x 6 root root 139 Jun 15 01:06 ..
+-rwxr--r-- 1 root root  31 Jun 15 01:34 0-hello_world
+-rwxr--r-- 1 root root  27 Jun 15 01:47 1-confused_smiley
+-rwxr--r-- 1 root root  27 Jun 15 02:01 2-hellofile
+-rwxr--r-- 1 root root  38 Jun 15 02:14 3-twofiles
+-rwxr--r-- 1 root root  32 Jun 15 02:23 4-lastlines
+-rwxr--r-- 1 root root  32 Jun 15 02:28 5-firstlines
+-rwxr--r-- 1 root root  41 Jun 15 02:49 6-third_line
+-rwxr--r-- 1 root root  88 Jun 15 04:18 7-file
+-rw-r--r-- 1 root root   2 Jun 15 01:19 .gitignore
+-rw-r--r-- 1 root root  17 Jun 15 04:26 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 800 Jun 15 02:36 iacta
+-rw-r--r-- 1 root root   0 Jun 15 04:39 ls_cwd_content
+-rw-r--r-- 1 root root  43 Jun 15 01:21 README.md
